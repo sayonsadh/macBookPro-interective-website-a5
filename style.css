@@ -1,0 +1,19 @@
+.hover-button{
+    border-radius: 5px;  
+}
+.hover-button:hover{
+    background-color: rgb(186, 220, 240);
+    color: rgb(4, 2, 20);
+}
+
+.promo-button{
+    color : white;
+    background-color: crimson;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 2px;
+}
+.promo-button:hover{
+    background-color: rgb(230, 223, 223);
+    color: rgb(20, 20, 20);
+}
